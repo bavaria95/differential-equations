@@ -27,3 +27,4 @@ for i in range(1, n ):
 A = [[round(e, 3) for e in l] for l in A]
 
 print A
+print d**-1
